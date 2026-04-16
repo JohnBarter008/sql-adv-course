@@ -3,5 +3,5 @@ Template that sets up a CodeSpace for students of the SQL courses
 
 Learn about
 
-*window functions
+* window functions
 * _tally_ tables
